@@ -5,7 +5,7 @@ Here is a line of code
 Here is another line
 
 I could compose poetry
-My life is an arrow
-A direction and a target
-Speed and arc
-Shot by the creator
+life is an arrow
+with direction and a target
+speed and arc
+shot by the prime mover
